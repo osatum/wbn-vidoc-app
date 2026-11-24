@@ -1,1 +1,4 @@
 .idea/*
+wbn-application/target/*
+wbn-frontend/src/main/angular/dist/*
+wbn-frontend/src/main/angular/node_modules/*
